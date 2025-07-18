@@ -6,9 +6,9 @@ Nació como trabajo final del bootcamp fullstack con backend en Python (CAC).
 
 El grupo de trabajo estuvo conformado por:
 
-Ana (GitHub)
+Ana Muscolo (GitHub)
 
-Federico (GitHub)
+Federico Iacono ([GitHub](https://github.com/FedeiaTech))
 
 María Torres (@numerodeoro)
 
