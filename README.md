@@ -12,30 +12,30 @@ Federico (GitHub)
 
 María Torres (@numerodeoro)
 
-🌐 Páginas del sitio
-Index: Página principal con información general del servicio.
+### 🌐 Páginas del sitio
+* Index: Página principal con información general del servicio.
 
-Plan 1, Plan 2, Plan 3: Detalles de cada plan de entrenamiento.
+* Plan 1, Plan 2, Plan 3: Detalles de cada plan de entrenamiento.
 
-Quiénes somos: Información sobre el equipo y la empresa.
+* Quiénes somos: Información sobre el equipo y la empresa.
 
-🛠️ Tecnologías utilizadas
-Frontend: HTML, CSS, JavaScript
+### 🛠️ Tecnologías utilizadas
+* Frontend: HTML, CSS, JavaScript
 
-Backend: Python (con base de datos simple de suscriptores)
+* Backend: Python (con base de datos simple de suscriptores)
 
-Despliegue:
+### Despliegue:
 
-Frontend: Netlify
+* Frontend: Netlify
 
-Backend: PythonAnywhere
+* Backend: PythonAnywhere
 
-Nota: La base de datos fue desactivada luego de tres meses por vencimiento del hosting gratuito.
+#### Nota: La base de datos fue desactivada luego de tres meses por vencimiento del hosting gratuito.
 
-🔗 Sitio en línea
+## 🔗 Sitio en línea
 👉 Ver el sitio desplegado en Netlify
 
-📌 Cosas a mejorar
+## 📌 Cosas a mejorar
 Ajustes de responsividad en algunas secciones para mejorar la experiencia en dispositivos móviles.
 
 Posible mejora del backend para usar una base de datos más robusta y persistente.
