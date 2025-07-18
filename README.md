@@ -39,3 +39,6 @@ María Torres (@numerodeoro)
 Ajustes de responsividad en algunas secciones para mejorar la experiencia en dispositivos móviles.
 
 Posible mejora del backend para usar una base de datos más robusta y persistente.
+
+<img width="1088" height="864" alt="image" src="https://github.com/user-attachments/assets/bdc41006-6c64-41db-918b-b5815479e18e" />
+
