@@ -1,23 +1,8 @@
 
-
-## Descripción del proyecto:
-
-Este proyecto consiste en la creación de un sitio web de 6 páginas para un servicio de entrenamiento. Nació como trabajo final de un bootcamp fullstack con backend en Python. El grupo de trabajo lo conformamos Ana (enlace a su github), Federico(enlace a su github) y yo(numerodeoro, María Torres). Las páginas son:
-
-* Index: Página principal con información general del servicio.
-* Plan 1, Plan 2, Plan 3: Páginas con detalles de cada plan de entrenamiento.
-* Quiénes somos: Página con información sobre el equipo y la empresa.
-
-Consta de un pequeño Backend en Python que permite generar una base de datos de suscriptores.
-Se encuentra desplegado en Netlify con el backend en Python Anywhere, si bien la base de datos se desactivó luego de tres meses.
-
-
-### Cosas a Mejorar: Hay varios detalles con la responsividad que deben ser mejorados
-
-🏋️‍♀️ ## Proyecto: Sitio Web para Servicio de Entrenamiento  
+## 🏋️‍♀️ Proyecto: Sitio Web para Servicio de Entrenamiento  
 
 Este proyecto consiste en la creación de un sitio web de 6 páginas para un servicio de entrenamiento físico.
-Nació como trabajo final del bootcamp fullstack con backend en Python.
+Nació como trabajo final del bootcamp fullstack con backend en Python (CAC).
 
 El grupo de trabajo estuvo conformado por:
 
