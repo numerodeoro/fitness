@@ -33,7 +33,7 @@ María Torres (@numerodeoro)
 #### Nota: La base de datos fue desactivada luego de tres meses por vencimiento del hosting gratuito.
 
 ## 🔗 Sitio en línea
-👉 Ver el sitio desplegado en Netlify          ([Netlify] (https://668b2b398835567599005db2--serene-belekoy-2da404.netlify.app))
+👉 Ver el sitio desplegado en Netlify          ([netlify] (https://668b2b398835567599005db2--serene-belekoy-2da404.netlify.app))
 
 ## 📌 Cosas a mejorar
 Ajustes de responsividad en algunas secciones para mejorar la experiencia en dispositivos móviles.
